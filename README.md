@@ -26,10 +26,10 @@ In the Basic level, you will implement the core functionalities of the To-Do lis
 
 ### Tasks
 
-- [x] Use states to manage to-do's.
-- [x] Implement handleAddTask function to add new tasks.
-- [x] Implement handleToggleTask function to mark tasks as completed.
-- [x] Implement handleDeleteTask function to remove tasks.
+- [] Use states to manage to-do's.
+- [] Implement handleAddTask function to add new tasks.
+- [] Implement handleToggleTask function to mark tasks as completed.
+- [] Implement handleDeleteTask function to remove tasks.
 
 ## 🥈 Medium Level
 
@@ -37,9 +37,9 @@ In the Medium level, you will refactor your code to improve its structure and re
 
 ### Tasks
 
-- [x] Extract the to-do's list into a TaskList component.
-- [x] Extract the task display into a TaskItem component.
-- [x] Pass functions as props to manage states from child components.
+- [] Extract the to-do's list into a TaskList component.
+- [] Extract the task display into a TaskItem component.
+- [] Pass functions as props to manage states from child components.
 
 ## 🥇 Hard Level
 
@@ -47,7 +47,7 @@ In the Hard level, you will implement persistence to save tasks in localStorage.
 
 ### Tasks
 
-- [x] Implement useEffect to store tasks in localStorage.
-- [x] Retrieve tasks from localStorage on component mount.
+- [] Implement useEffect to store tasks in localStorage.
+- [] Retrieve tasks from localStorage on component mount.
 
 Happy coding! 🎉
